@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 
 // ─── CONFIG — reemplaza esta URL después del paso 1 ──────────────────────────
-const SCRIPT_URL = "https://ieps-tracker.vercel.app/";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbz813V15nQWKnbVZx_Iv0dtPQsJokcJ-yl5x7QN8oCRfvWXv_dQAVgW68LbrDNG1smO/exec";
 // Ejemplo: "https://script.google.com/macros/s/AKfycb.../exec"
 
 // ─── Constants ───────────────────────────────────────────────────────────────
